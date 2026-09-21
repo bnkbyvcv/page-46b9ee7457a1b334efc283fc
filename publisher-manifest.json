@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c9f3566195c378ef7d592b88",
+  "owner": "bnkbyvcv",
+  "repo": "page-46b9ee7457a1b334efc283fc",
+  "title": "IBCN快如闪电(IBCN)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "46b9ee7457a1b334efc283fc",
+      "a": "IBCN快如闪电(IBCN)",
+      "b": "机场官网线路发布页",
+      "entity": "IBCN快如闪电(IBCN)",
+      "brand": "IBCN快如闪电(IBCN)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bcd2d228eba5f35e994e3380634420f4276560ab8e7142eecbebaddea5df2f8d",
+      "content": {
+        "primary_entity": "IBCN快如闪电(IBCN)",
+        "keyword1": "IBCN快如闪电(IBCN)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，IBCN快如闪电提供多档加速套餐与多平台客户端，适合按设备数量、流量和订阅周期自主选择。基础版面向轻量使用，旗舰版覆盖流媒体与游戏加速，团队版满足多设备高带宽需求。",
+          "AI_HERO_SUBTITLE": "多设备加速 套餐灵活可选",
+          "AI_HERO_INTRO": "IBCN快如闪电提供按流量与设备数分档的加速套餐，基础版、旗舰版与团队版分别覆盖个人轻量、流媒体游戏及多设备高带宽场景。选择套餐后按客户端文档配置订阅即可使用。",
+          "AI_VISUAL_TITLE": "IBCN快如闪电 套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线支持",
+          "AI_HIGHLIGHT_3": "IPLC专线游戏加速",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型出发，匹配适合的订阅方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版3台、旗舰版5台、团队版20台，按常用设备数量选择即可，无需为闲置设备付费。",
+          "AI_FEATURE_TITLE_2": "按流量估需求",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB、1000GB三档流量，轻度浏览选基础版，高频流媒体或下载选旗舰版或团队版。",
+          "AI_FEATURE_TITLE_3": "订阅周期更划算",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付方案价格更低，长期使用可优先考虑年付以降低月均成本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统对应不同订阅客户端，可参考各平台文档完成导入与配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月含100GB与3台设备；旗舰版¥35/月含300GB、5台设备及IPLC专线游戏加速；团队版¥85/月含1000GB与20台设备。年付分别为¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "按需求选套餐，确认设备适配，再依客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TITLE_2": "看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本和客户端支持情况，下载对应平台的订阅工具。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成节点选择与连接设置即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "IBCN快如闪电支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持常见的桌面与移动操作系统，可选择对应客户端导入订阅。不同套餐的设备在线数量不同，基础版3台、旗舰版5台、团队版20台，可按需选择。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅？",
+          "AI_FAQ_ANSWER_2": "购买套餐后获取订阅信息，在对应客户端中通过添加订阅或导入配置的方式填入，保存后即可选择节点连接。具体步骤可参考客户端说明文档。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费灵活调整，年付一次性支付全年费用，价格更优惠。基础版年付¥150、旗舰版年付¥350、团队版年付¥850，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "当月流量用尽后可按客户端提示查看剩余情况，并根据需要升级到更高流量的套餐档位，或等待下个计费周期恢复。",
+          "AI_FAQ_QUESTION_5": "游戏加速效果怎么样？",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版包含IPLC专线及游戏加速优化节点，可降低延迟和抖动。实际体验受本地网络与目标服务器影响，建议选择距离较近的节点。",
+          "AI_CLOSING_TITLE": "选对套餐 畅连全球",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档配置订阅即可体验IBCN快如闪电的加速服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "85xna.cn",
+    "host": "85xna.cn"
+  },
+  "file_hashes": {
+    "index.html": "6425126883fabc57e96f86eb130d1c600e1018acb373ab8eaa0e5d2dff0efe78",
+    "sitemap.xml": "ac3504fea4d71ebe6c4d4fda1a10cf0c16b5ba8387f544395c3fdedf991e68fe",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "94af7d106b6fd0758bad70d7400b41e97af6dfb177495732318f2b074deb9864",
+    "robots.txt": "0defb9c40cc07ab08eff1e4b63c77481e49470620c9f68dbaab0fb08d714d474",
+    "a730b38f05d056ff4c2853df38e492e2.txt": "1a167fbd765a2facb35b561f752e4840f78d40e411094b2fb910eb4c2b2de5bd"
+  },
+  "revision": "9ba609a6da491bd67d5872d2e241a4dde2dee0d0df35b2ebd8ba167313622da6"
+}
